@@ -1,4 +1,4 @@
-<h1>TAG Vinyl Mod</h1>
+<h1 style='font-family:Arial;font-size:48px;border: 0px none transparent; color: rgba(225, 50, 29,1)'>TAG Vinyl Mod</h1>
 <hr>
 Note: Original Part Files By: Krasimir<br>
 Vinyls for the outside of your Crafts<br>
