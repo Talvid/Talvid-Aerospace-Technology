@@ -1,5 +1,5 @@
-TAG Vinyl Mod<br>
-=====================<br>
+<h1>TAG Vinyl Mod</h1>
+<hr>
 Note: Original Part Files By: Krasimir<br>
 Vinyls for the outside of your Crafts<br>
 Different Sizes and shapes include:<br>
