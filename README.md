@@ -1,6 +1,6 @@
-TAG Vinyl Mod\n
-=====================\n
-Note: Original Part Files By: Krasimir\n
+TAG Vinyl Mod\r
+=====================\r
+Note: Original Part Files By: Krasimir\r
 Vinyls for the outside of your Crafts\n
 Different Sizes and shapes include:\n
   • Normal Flat (Default 1.25m)\n
